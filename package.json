@@ -21,6 +21,7 @@
     "hars.CppSnippets", 
     "ms-python.python", 
     "ms-python.vscode-pylance",
-    "njpwerner.autodocstring"
+    "njpwerner.autodocstring",
+    "eamodio.gitlens"
   ]
 }
