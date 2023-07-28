@@ -1,7 +1,7 @@
 {
   "name": "ros-extension-pack",
   "displayName": "ROS/ROS2 Extension Pack",
-  "publisher": "Tamerlan Bahov",
+  "publisher": "tamerlan-bahov",
   "repository": {
     "type": "git",
     "url": "https://github.com/tamerlan-b/ros-extenion-pack.git"
