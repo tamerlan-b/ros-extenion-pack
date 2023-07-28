@@ -1,0 +1,25 @@
+{
+  "name": "ros-extension-pack",
+  "displayName": "ROS/ROS2 Extension Pack",
+  "publisher": "Tamerlan Bahov",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tamerlan-b/ros-extenion-pack.git"
+  },
+  "description": "Popular extensions for ROS development in VSCode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "ms-vscode.cpptools-extension-pack", 
+    "twxs.cmake",
+    "cschlosser.doxdocgen", 
+    "hars.CppSnippets", 
+    "ms-python.python", 
+    "ms-python.vscode-pylance"
+  ]
+}
