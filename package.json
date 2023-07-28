@@ -20,6 +20,7 @@
     "cschlosser.doxdocgen", 
     "hars.CppSnippets", 
     "ms-python.python", 
-    "ms-python.vscode-pylance"
+    "ms-python.vscode-pylance",
+    "njpwerner.autodocstring"
   ]
 }

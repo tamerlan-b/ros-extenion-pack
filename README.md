@@ -7,6 +7,8 @@ This extension pack includes a set of popular extensions for ROS/ROS2 developmen
 * [Doxygen Documentation Generator](https://marketplace.visualstudio.com/items?itemName=cschlosser.doxdocgen)
 * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 * [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
+* [autoDocstring - Python Docstring Generator
+](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
 
 
 ## TODO
