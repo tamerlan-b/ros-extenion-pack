@@ -15,5 +15,5 @@ This extension pack includes a set of popular extensions for ROS/ROS2 developmen
 - [ ] Add ROS extensions and ROS snippets
 - [ ] Update CHANGELOG.md
 - [ ] Fill README.md with use cases
-- [ ] Add icon
+- [x] Add icon
 - [ ] Publish extension to [marketplace](https://marketplace.visualstudio.com/vscode)

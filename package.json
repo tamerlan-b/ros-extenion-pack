@@ -6,6 +6,7 @@
     "type": "git",
     "url": "https://github.com/tamerlan-b/ros-extenion-pack.git"
   },
+  "icon": "images/ros-logo.png",
   "description": "Popular extensions for ROS development in VSCode",
   "version": "0.0.1",
   "engines": {
