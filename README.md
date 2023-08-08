@@ -1,4 +1,4 @@
-# ROS/ROS2 Extension Pack
+# ROS2 Dev Pack
 
 This extension pack includes a set of popular extensions for ROS/ROS2 development in Visual Studio Code:  
 * [C++ Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack)
