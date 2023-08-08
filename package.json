@@ -23,6 +23,8 @@
     "ms-python.python", 
     "ms-python.vscode-pylance",
     "njpwerner.autodocstring",
-    "eamodio.gitlens"
+    "eamodio.gitlens",
+    "ms-iot.vscode-ros",
+    "jaehyunshim.vscode-ros2"
   ]
 }
