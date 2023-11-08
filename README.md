@@ -1,6 +1,8 @@
 # ROS2 Dev Pack
 
-This extension pack includes a set of popular extensions for ROS/ROS2 development in Visual Studio Code:  
+This extension pack includes a set of popular extensions for ROS2 development in Visual Studio Code.
+
+##  Extensions Included
 * [C++ Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack)
 * [C/C++ Snippets](https://marketplace.visualstudio.com/items?itemName=hars.CppSnippets)
 * [CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake)
@@ -18,4 +20,5 @@ This extension pack includes a set of popular extensions for ROS/ROS2 developmen
 - [ ] Update CHANGELOG.md
 - [ ] Fill README.md with use cases
 - [x] Add icon
+- [ ] Update icon
 - [ ] Publish extension to [marketplace](https://marketplace.visualstudio.com/vscode)
